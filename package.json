@@ -1,0 +1,23 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "A Pen created on CodePen.io. Original URL: [https://codepen.io/rajeshv-alluri/pen/powKyxY](https://codepen.io/rajeshv-alluri/pen/powKyxY).",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajeshV-Alluri/Spotify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajeshV-Alluri/Spotify/issues"
+  },
+  "homepage": "https://RajeshV-Alluri.github.io/Spotify",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
