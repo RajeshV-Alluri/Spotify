@@ -1,6 +1,6 @@
 # Spotify Clone
 A Pen created on CodePen.io. Original URL: [https://codepen.io/rajeshv-alluri/pen/powKyxY](https://codepen.io/rajeshv-alluri/pen/powKyxY).
-This project is a clone of [spotify](open.spotify.com) starting page.
+This project is a clone of [spotify](https.//open.spotify.com) starting page.
 
 ## Visit Site Here -
 [click here](https://RajeshV-Alluri.github.io/Spotify)
