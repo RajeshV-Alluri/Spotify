@@ -14,11 +14,11 @@ SCSS*
 
 ## After Installation-
 After cloning the Repo, You can see the following files
-  dist
+  -dist
     -index.html
     -script.js
     -style.css
-  src
+  -src
     -index.html
     -script.babel
     -style.scss
