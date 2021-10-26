@@ -5,6 +5,9 @@ This project is a clone of [spotify](https://open.spotify.com/) starting page.
 ## Visit Site Here -
 [click here](https://RajeshV-Alluri.github.io/Spotify)
 
+## Preview -
+<img src="https://user-images.githubusercontent.com/63069749/138858235-7190b61e-1909-41b3-801f-15b967f3ec18.png">
+
 ## Tools & Technologies Used -
 *HTML5,
 CSS3,
